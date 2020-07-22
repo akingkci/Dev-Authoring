@@ -13,6 +13,6 @@ This group of repositories present examples of compliant authoring tools, access
     1. [Example 1](https://github.com/akingkci/Playbook-Automation/tree/master/examples/axe/basic)
     
   * ANGULAR
-    1. [Example 1](https://github.com/akingkci/Playbook-Automation/tree/master/examples/pa11y/basic) - loading...
-    2. [Advanced examples](https://github.com/akingkci/Playbook-Automation/tree/master/examples/pa11y/advanced) - loading...     
+    1. [Example 1](https://github.com/akingkci/Playbook-Automation/tree/master/examples/pa11y/basic)
+    
   
