@@ -2,7 +2,7 @@
 
 <hr>
 
-Go to the [GitHub Playbook-Authoring published page](https://akingkci.github.io/Playbook-Authoring/)
+Go to the [GitHub Playbook-Authoring published page](https://akingkci.github.io/Dev-Authoring/)
 
 <hr>
 
